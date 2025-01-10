@@ -8,24 +8,28 @@ This new enchantment can be obtained from the enchantment table, loot chests or 
 
 ### Give
 
-```
+```mcfunction
 /loot give @s loot smelting_enchantment:smelting
 ```
 
 ### Enchant
 
-```
+```mcfunction
 /enchant @s smelting_enchantment:smelting
 ```
 
 ### Disable
 
-```
+```mcfunction
 /datapack disable smelting_enchantment
 ```
 
 ### Enable
 
-```
+```mcfunction
 /datapack enable smelting_enchantment
 ```
+
+## License
+
+MIT
