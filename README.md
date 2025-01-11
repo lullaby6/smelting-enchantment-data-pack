@@ -4,6 +4,8 @@ This datapack adds a new enchantment for the pickaxes, the “Smelting” enchan
 
 This new enchantment can be obtained from the enchantment table, loot chests or trades with villagers.
 
+Version: 1.21.X
+
 ## Commands
 
 Give:
