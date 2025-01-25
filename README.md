@@ -23,13 +23,13 @@ Enchant:
 Disable:
 
 ```mcfunction
-/datapack disable "file/smelting-enchantment"
+/datapack disable "file/smelting-enchantment.zip"
 ```
 
 Enable:
 
 ```mcfunction
-/datapack enable "file/smelting-enchantment"
+/datapack enable "file/smelting-enchantment.zip"
 ```
 
 ## License
