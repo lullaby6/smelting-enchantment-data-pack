@@ -1,10 +1,10 @@
 # Smelting Enchantment
 
-This datapack adds a new enchantment for the pickaxes, the “Smelting” enchantment, this new enchantment allows you to mine ores and have them drop the ingot instead of the raw ore.
+This Data Pack adds the `Smelting` enchantment for pickaxes, which automatically smelts mined ores.
 
-This new enchantment can be obtained from the enchantment table, loot chests or trades with villagers.
+The enchantment can be obtained from the enchantment table, loot chests or trading with villagers.
 
-Version: 1.21.X
+Version: `1.21.X`
 
 ## Commands
 
