@@ -9,19 +9,9 @@
 [![Repo Size](https://img.shields.io/github/repo-size/lullaby6/smelting-enchantment-data-pack?logo=dropbox&color=red)](https://github.com/lullaby6/smelting-enchantment-data-pack)
 [![Stars](https://img.shields.io/github/stars/lullaby6/smelting-enchantment-data-pack?logo=github&color=yellow)](https://github.com/lullaby6/smelting-enchantment-data-pack/stargazers)
 
-This Data Pack adds the `Smelting` enchantment for pickaxes, which automatically smelts mined ores.
+The `Smelting` enchantment for pickaxes, which automatically smelts mined ores.
 
 The enchantment can be obtained from the enchantment table, loot chests or trading with villagers.
-
-Version: `1.21.X`
-
-## 📂 Installation
-
-Move the downloaded file in the path `.minecraft/saves/[world]/datapacks`
-
-## 👾 Bugs/Issues
-
-Please report any bug/issues to the [Discord Server](https://discord.gg/5UdcDa5xNC) in the `bugs` channel, or create a issue in the [Github Repostiroy](https://github.com/lullaby6/smelting-enchantment-data-pack/issues), or a comment in [Planet Minecraft](https://www.planetminecraft.com/data-pack/smelting-enchantment/).
 
 ## ⌨️ Commands
 
@@ -37,18 +27,7 @@ Enchant:
 /enchant @s smelting_enchantment:smelting
 ```
 
-Disable:
-
-```mcfunction
-/datapack disable "file/smelting-enchantment.zip"
-```
-
-Enable:
-
-```mcfunction
-/datapack enable "file/smelting-enchantment.zip"
-```
 
 ## 🪪 License
 
-[MIT](https://github.com/lullaby6/smelting-enchantment-data-pack/blob/main/LICENSE)
+[AGPLv3](https://github.com/lullaby6/smelting-enchantment-data-pack/blob/main/LICENSE)
